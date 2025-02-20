@@ -21,16 +21,16 @@ The **Bank Loan Analysis Dashboard** is a dynamic, interactive Power BI tool tha
 
 ### **Loan Quality**  
 - **Good Loans**:  
-  - Represent **86.2%** of all loans.  
-  - Total applications: **33,000**.  
-  - Total funded amount: **$370.2M**.  
-  - Total amount received: **$435.8M**.  
+Represent **86.2%** of all loans.  
+Total applications: **33,000**.  
+Total funded amount: **$370.2M**.  
+Total amount received: **$435.8M**.  
 
 - **Bad Loans**:  
-  - Represent **13.8%** of all loans.  
-  - Total applications: **5,000**.  
-  - Total funded amount: **$65.5M**.  
-  - Total amount received: **$37.3M**.  
+Represent **13.8%** of all loans.  
+Total applications: **5,000**.  
+Total funded amount: **$65.5M**.  
+Total amount received: **$37.3M**.  
 
 ---
 
@@ -72,7 +72,7 @@ This repository includes:
 
 ---
 
-## 📬 Feedback and Contributions  
+## Feedback and Contributions  
 I’d love to hear your thoughts or suggestions! Feel free to create an issue or submit a pull request. Let’s collaborate on enhancing this project further.
 
 ---
