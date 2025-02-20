@@ -17,7 +17,7 @@ The **Bank Loan Analysis Dashboard** is a dynamic, interactive Power BI tool tha
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 ### **Loan Quality**  
 - **Good Loans**:  
@@ -36,22 +36,22 @@ The **Bank Loan Analysis Dashboard** is a dynamic, interactive Power BI tool tha
 
 ### **Borrower Demographics and Trends**  
 - **Purpose of Loans**:  
-  - The majority (18.2%) of loans are for **debt consolidation**, followed by credit card refinancing and small business needs.  
+The majority (18.2%) of loans are for **debt consolidation**, followed by credit card refinancing and small business needs.  
 
 - **Employment Length**:  
-  - Borrowers with **10+ years of experience** are the largest group, applying for 8,300 loans.  
+Borrowers with **10+ years of experience** are the largest group, applying for 8,300 loans.  
 
 - **Home Ownership**:  
-  - Renters dominate loan applications with **18,000 applicants**, compared to 17,000 from homeowners.  
+Renters dominate loan applications with **18,000 applicants**, compared to 17,000 from homeowners.  
 
 ---
 
-### 📉 Challenges  
+### Challenges  
 Loan applications have declined steadily month-over-month, from 4,300 in December to 2,300 in February. This downward trend calls for deeper analysis to understand seasonal patterns or other contributing factors.
 
 ---
 
-## 🌍 Regional Insights  
+## Regional Insights  
 The dashboard also includes a geographical breakdown, visualizing loan applications by state and identifying high-activity regions.
 
 ---
