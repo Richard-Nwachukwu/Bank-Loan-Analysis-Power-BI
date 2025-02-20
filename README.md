@@ -5,6 +5,8 @@ Welcome to the **Bank Loan Analysis Dashboard**, a Power BI project designed to 
 ---
 ![Dashboard 1](https://github.com/Richard-Nwachukwu/Bank-Loan-Analysis-Power-BI/blob/75125aff9974c8cfdfec019362f2f7def76f4dfa/D1.png)
 
+![Dashboard 2](https://github.com/Richard-Nwachukwu/Bank-Loan-Analysis-Power-BI/blob/dcd0393a74d6db349345b1414f15011b357de5a4/D2.png)
+
 ## Project Overview
 
 The **Bank Loan Analysis Dashboard** is a dynamic, interactive Power BI tool that visualizes key metrics related to loan applications, funding, and repayments. It helps stakeholders monitor loan performance, assess risks, and identify borrower trends for better decision-making.
